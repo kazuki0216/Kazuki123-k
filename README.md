@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kazuki123-k
-- 👀 I’m interested in learning how to code as an absolute beginner in Japan.
-- 🌱 I’m currently learning HTML CSS
-- 💞️ I’m looking to collaborate on creating a website.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me kazukikagoshima2@gmail.com
 
 <!---
